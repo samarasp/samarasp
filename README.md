@@ -33,7 +33,7 @@ Desenvolvedora em formação, com foco inicial em Python, .NET e C#, adquirindo 
 ---
 
 ## 📌 Projetos em Destaque
-- [Sistema de Estacionamento em C#][https://github.com/samarasp/trilha-net-fundamentos-desafio]
+- [Sistema de Estacionamento em C#](https://github.com/samarasp/trilha-net-fundamentos-desafio)
 - [Portfólio de Projetos](https://github.com/samarasp/dio-lab-open-source)
 
 ## 🎓 Certificados
