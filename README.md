@@ -33,8 +33,8 @@ Desenvolvedora em formação, com foco inicial em Python, .NET e C#, adquirindo 
 ---
 
 ## 📌 Projetos em Destaque
-- [Sistema de Estacionamento em C#](#)
-- [Portfólio de Projetos](#)
+- [Sistema de Estacionamento em C#][https://github.com/samarasp/trilha-net-fundamentos-desafio]
+- [Portfólio de Projetos](https://github.com/samarasp/dio-lab-open-source)
 
 ## 🎓 Certificados
 
@@ -56,8 +56,8 @@ Desenvolvedora em formação, com foco inicial em Python, .NET e C#, adquirindo 
 - Explorando Sintaxe e Lógica em C# *(Desafio de código)*
 
 ### Projetos & Open Source
-- Construindo um Sistema para um Estacionamento com C# *((https://github.com/samarasp/trilha-net-fundamentos-desafio))*  
-- Contribuindo em um Projeto Open Source no GitHub *(Desafio de projeto)*
+- Construindo um Sistema para um Estacionamento com C# *(https://github.com/samarasp/trilha-net-fundamentos-desafio)*  
+- Contribuindo em um Projeto Open Source no GitHub *(https://github.com/samarasp/dio-lab-open-source)*
 
 ### POO em C# — Intermediário
 - Propriedades, Métodos e Construtores com C#  
