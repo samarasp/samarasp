@@ -1,6 +1,15 @@
 # 👋 Olá, eu sou a Samara!
 
-Desenvolvedora em formação, com foco inicial em Python, .NET e C#, adquirindo experiência em boas práticas de programação.
+💻 Desenvolvedora em formação | 🚀 Explorando o mundo de **Python, .NET e C#**  
+✨ Apaixonada por aprender, compartilhar conhecimento e tentar transformar ideias em código.  
+
+---
+
+## 🚀 Minhas Habilidades
+- 🐍 **Python** — primeiros passos no universo da programação e caminhando..
+- 💻 **C# e .NET** — sintaxe, POO, coleções, exceções e muito mais
+- 🔧 **Git & GitHub** — versionamento de código e contribuição em projetos open source
+- 🎯 **Lógica e Pensamento Computacional** — desafios práticos e raciocínio estruturado
 
 ---
 ## 🚀 Habilidades adquiridas no Bootcamp GFT Start #7 da DIO
@@ -25,16 +34,15 @@ Desenvolvedora em formação, com foco inicial em Python, .NET e C#, adquirindo 
 - Tuplas, operador ternário e desconstrução de objetos
 - **NuGet**, serialização de dados e atributos
 
-### 🔹 Projetos Práticos
+### 🔹 Desafio de Projetos Práticos
 - **Sistema de Estacionamento em C#**
 - Desafios de lógica e sintaxe em C#
 - Contribuições em projetos no GitHub
 
 ---
 
-## 📌 Projetos em Destaque
-- [Sistema de Estacionamento em C#](https://github.com/samarasp/trilha-net-fundamentos-desafio)
-- [Portfólio de Projetos](https://github.com/samarasp/dio-lab-open-source)
+### 🎯 Próximos desafios
+- Construindo um Sistema de Hospedagem de um Hotel no C#
 
 ## 🎓 Certificados
 
