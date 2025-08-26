@@ -56,7 +56,7 @@ Desenvolvedora em formação, com foco inicial em Python, .NET e C#, adquirindo 
 - Explorando Sintaxe e Lógica em C# *(Desafio de código)*
 
 ### Projetos & Open Source
-- Construindo um Sistema para um Estacionamento com C# *(Desafio de projeto)*  
+- Construindo um Sistema para um Estacionamento com C# *((https://github.com/samarasp/trilha-net-fundamentos-desafio))*  
 - Contribuindo em um Projeto Open Source no GitHub *(Desafio de projeto)*
 
 ### POO em C# — Intermediário
