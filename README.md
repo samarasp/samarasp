@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou a Samara!
 
-💻 Desenvolvedora em formação |  Meu interesse pela área surgiu quando um colega de trabalho me desafiou a tentar programar — e para minha surpresa, eu adorei!  
+💻 Desenvolvedora em formação |  Meu interesse pela área surgiu quando um colega de trabalho me desafiou — e para minha surpresa, eu adorei!
 🚀 Explorando o mundo de **Python, .NET e C#**  
-✨ Apaixonada por aprender, compartilhar conhecimento e tentar transformar ideias em código.  
+✨ Gosto de aprender, compartilhar conhecimento e tentar transformar ideias em código.  
 
 “Aceitei um desafio... e descobri uma paixão.”
 
