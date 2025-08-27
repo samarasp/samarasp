@@ -41,11 +41,9 @@
 - **Sistema de Estacionamento em C#**
 - Desafios de lógica e sintaxe em C#
 - Contribuições em projetos no GitHub
+- Construindo um Sistema de Hospedagem de um Hotel no C#
 
 ---
-
-### 🎯 Próximos desafios
-- Construindo um Sistema de Hospedagem de um Hotel no C#
 
 ## 🎓 Certificados
 
@@ -69,6 +67,7 @@
 ### Projetos & Open Source
 - Construindo um Sistema para um Estacionamento com C# *(https://github.com/samarasp/trilha-net-fundamentos-desafio)*  
 - Contribuindo em um Projeto Open Source no GitHub *(https://github.com/samarasp/dio-lab-open-source)*
+- Construindo um Sistema de Hospedagem de um Hotel no C# *(https://github.com/digitalinnovationone/trilha-net-explorando-desafio)*
 
 ### POO em C# — Intermediário
 - Propriedades, Métodos e Construtores com C#  
