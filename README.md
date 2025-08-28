@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou a Samara!
 
-Meu interesse pela área surgiu quando um colega de trabalho me desafiou a formatar um Mac, depois me apresentou Python — e para minha surpresa, eu adorei!
-
 💻 Desenvolvedora em formação 
 🚀 Explorando o mundo de **Python, .NET e C#**  
 ✨ Gosto de aprender, compartilhar conhecimento e tentar transformar ideias em código.  
@@ -36,6 +34,10 @@ Meu interesse pela área surgiu quando um colega de trabalho me desafiou a forma
 - **Exceções** e **coleções** (listas, dicionários etc.)
 - Tuplas, operador ternário e desconstrução de objetos
 - **NuGet**, serialização de dados e atributos
+- Introdução, Abstração e Encapsulamento
+- Herança e Polimorfismo
+- Classes Abstratas e Interfaces
+- Encapsulamento, manipulação de valores
 
 ### 🔹 Desafio de Projetos Práticos
 - Desafios de lógica e sintaxe em C#
