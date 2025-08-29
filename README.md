@@ -44,6 +44,7 @@
 - Construindo um Sistema para um Estacionamento com C# *(https://github.com/samarasp/trilha-net-fundamentos-desafio)*  
 - Contribuindo em um Projeto Open Source no GitHub *(https://github.com/samarasp/dio-lab-open-source)*
 - Construindo um Sistema de Hospedagem de um Hotel no C# *(https://github.com/digitalinnovationone/trilha-net-explorando-desafio)*
+- Criando um Sistema e Abstraindo um Celular com POO em C# *(https://github.com/samarasp/trilha-net-poo-desafio.git)*
 ---
 
 
