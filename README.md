@@ -16,20 +16,20 @@
 
 ## 🚀 Bootcamp GFT Start #7 da DIO + 🎓 Certificados (cursando)
 
-### 🔹 Fundamentos de Programação e Ambiente
+## 🔹 Fundamentos de Programação e Ambiente
 - Configuração de ambiente com IDEs para **.NET**
 - **Versionamento de código** com Git e GitHub
 - Contribuição em projetos **open source**
 - Criação e organização de um **portfólio de projetos**
 
-### 🔹 Lógica de Programação e Pensamento Computacional
+## 🔹 Lógica de Programação e Pensamento Computacional
 - Sintaxe e **tipos de dados em C#**
 - Operadores aritméticos, relacionais e lógicos
 - Estruturas de repetição (loops) e organização de programas
 - Uso de **arrays e listas**
 - Resolução de desafios de código e lógica
 
-### 🔹 Programação Orientada a Objetos em C#
+## 🔹 Programação Orientada a Objetos em C#
 - **Classes, métodos, propriedades e construtores**
 - Encapsulamento, manipulação de valores
 - **Exceções** e **coleções** (listas, dicionários etc.)
@@ -40,7 +40,7 @@
 - Classes Abstratas e Interfaces
 - Encapsulamento, manipulação de valores
 
-### 🔹 Desafio de Projetos Práticos
+## 🔹 Desafio de Projetos Práticos
 - Desafios de lógica e sintaxe em C#
 - Construindo um Sistema para um Estacionamento com C# *(https://github.com/samarasp/trilha-net-fundamentos-desafio)*  
 - Contribuindo em um Projeto Open Source no GitHub *(https://github.com/samarasp/dio-lab-open-source)*
@@ -48,10 +48,10 @@
 - Criando um Sistema e Abstraindo um Celular com POO em C# *(https://github.com/samarasp/trilha-net-poo-desafio.git)*
 ---
 
-## 🚀 Próximos bootcamps:
+### 🚀 Próximos bootcamps:
+### Santander 2025 (Inscrita)
+### Universia - Fundamentos de IA Generativa (Inscrita)
 
-## Santander 2025 (Inscrita)
-## Universia - Fundamentos de IA Generativa (Inscrita)
 
 
-✨ “Aceitei um desafio... e descobri uma paixão.”
+✨ “Aceitei um desafio... e descobri uma aptdão.”
