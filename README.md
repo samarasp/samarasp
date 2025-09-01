@@ -13,7 +13,8 @@
 - 🎯 **Lógica e Pensamento Computacional** — desafios práticos e raciocínio estruturado
 
 ---
-## 🚀 Conhecimento adquirido no Bootcamp GFT Start #7 da DIO + 🎓 Certificados
+
+## 🚀 Bootcamp GFT Start #7 da DIO + 🎓 Certificados (cursando)
 
 ### 🔹 Fundamentos de Programação e Ambiente
 - Configuração de ambiente com IDEs para **.NET**
@@ -46,6 +47,11 @@
 - Construindo um Sistema de Hospedagem de um Hotel no C# *(https://github.com/digitalinnovationone/trilha-net-explorando-desafio)*
 - Criando um Sistema e Abstraindo um Celular com POO em C# *(https://github.com/samarasp/trilha-net-poo-desafio.git)*
 ---
+
+## 🚀 Próximos bootcamps:
+
+## Santander 2025 (Inscrita)
+## Universia - Fundamentos de IA Generativa (Inscrita)
 
 
 ✨ “Aceitei um desafio... e descobri uma paixão.”
