@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Samara!
 
-💻 Desenvolvedora em formação 
-🚀 Explorando o mundo de **Python, .NET e C#**  
+💻 Estou começando minha jornada na programação  
+🚀 Atualmente estudando **Python, .NET e C#**  
 ✨ Gosto de aprender, compartilhar conhecimento e tentar transformar ideias em código.  
 
 ---
@@ -11,6 +11,7 @@
 - 💻 **C# e .NET** — sintaxe, POO, coleções, exceções e muito mais
 - 🔧 **Git & GitHub** — versionamento de código e contribuição em projetos open source
 - 🎯 **Lógica e Pensamento Computacional** — desafios práticos e raciocínio estruturado
+- 📚 **ASP.NET** - Minimals APIs
 
 ---
 
