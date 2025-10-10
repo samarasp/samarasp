@@ -110,4 +110,12 @@ integração e cloud computing.*
 
 ---
 
+### 👥 More about Me
+
+<a href="https://www.linkedin.com/in/samara-silva-62a1057/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+---
+
 ✨ *“Aceitei um desafio... e descobri uma aptidão.”*  
