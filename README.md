@@ -18,6 +18,36 @@
 
 ---
 
+## 💼 Projeto em Destaque — *StaffSBOT* (em desenvolvimento)
+
+O **SistemasStaffSBOT** é uma plataforma interna em desenvolvimento para a  
+**Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)**, criada com o objetivo de  
+centralizar e digitalizar os processos administrativos e operacionais utilizados  
+diariamente pela equipe da instituição.
+
+O sistema reúne, em um único ambiente integrado, diversos módulos que antes funcionavam de forma isolada. Entre eles estão:
+
+- **Motoboy** — controle completo de solicitações de transporte, com logs de entregas e status em tempo real.  
+- **Aprovação de Pagamentos (AP)** — fluxo de requisição, aprovação e acompanhamento de pagamentos, com registros automáticos.  
+- **Correspondências** — gestão de correspondências recebidas e expedidas, com rastreio, histórico e filtros de busca por data, ano ou destinatário.  
+- **Contatos Internos** — cadastro e consulta de colaboradores, departamentos e cargos institucionais.  
+- **Demandas Administrativas** — acompanhamento de tarefas internas, status e responsáveis.  
+- **Dashboard de Sistemas** — visão centralizada com acesso rápido a todos os módulos conforme o perfil do usuário.  
+
+O back-end do sistema foi desenvolvido em **.NET 9 Minimal API com Entity Framework Core**,  
+enquanto o front-end utiliza **React + Vite**, aplicando o padrão **SPA (Single Page Application)** para garantir  
+uma navegação fluida, rápida e responsiva.  
+
+O banco de dados é **MySQL** rodando em container **Docker**, com autenticação segura (**JWT**) e controle de acesso por função.  
+O **StaffSBOT** conta com **relatórios em PDF e CSV**, **notificações automáticas** e uma interface moderna e intuitiva,  
+totalmente adaptada à identidade visual da SBOT.
+
+💡 *O StaffSBOT é um exemplo real da aplicação prática do conhecimento adquirido no Bootcamp,  
+consolidando todas as competências em back-end, front-end, banco de dados, autenticação,  
+integração e cloud computing.*
+
+---
+
 ## 🎓 Bootcamp GFT Start #7 (DIO) — ✅ Concluído  
 
 ### 🔹 Fundamentos de Programação e Ambiente
