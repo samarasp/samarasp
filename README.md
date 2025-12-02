@@ -18,33 +18,93 @@
 
 ---
 
-## 💼 Projeto em Destaque — *StaffSBOT* (em desenvolvimento)
+## 💼 Projeto em Destaque — *SistemasStaffSBOT* (em desenvolvimento)
 
-O **SistemasStaffSBOT** é uma plataforma interna em desenvolvimento para a  
-**Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)**, criada com o objetivo de  
-centralizar e digitalizar os processos administrativos e operacionais utilizados  
-diariamente pela equipe da instituição.
+O **SistemasStaffSBOT** é uma plataforma interna criada para a  
+**Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)** com o objetivo de  
+centralizar, modernizar e digitalizar todos os processos administrativos utilizados  
+diariamente pela instituição.
 
-O sistema reúne, em um único ambiente integrado, diversos módulos que antes funcionavam de forma isolada. Entre eles estão:
+Totalmente desenvolvido por mim — **do back-end ao front-end** — o sistema une em um  
+único ambiente módulos que antes eram manuais, dispersos e sem integração.
 
-- **Motoboy** — controle completo de solicitações de transporte, com logs de entregas e status em tempo real.  
-- **Aprovação de Pagamentos (AP)** — fluxo de requisição, aprovação e acompanhamento de pagamentos, com registros automáticos.  
-- **Correspondências** — gestão de correspondências recebidas e expedidas, com rastreio, histórico e filtros de busca por data, ano ou destinatário.  
-- **Contatos Internos** — cadastro e consulta de colaboradores, departamentos e cargos institucionais.  
-- **Demandas Administrativas** — acompanhamento de tarefas internas, status e responsáveis.  
-- **Dashboard de Sistemas** — visão centralizada com acesso rápido a todos os módulos conforme o perfil do usuário.  
+---
 
-O back-end do sistema foi desenvolvido em **.NET 9 Minimal API com Entity Framework Core**,  
-enquanto o front-end utiliza **React + Vite**, aplicando o padrão **SPA (Single Page Application)** para garantir  
-uma navegação fluida, rápida e responsiva.  
+## 🧩 Módulos Ativos
 
-O banco de dados é **MySQL** rodando em container **Docker**, com autenticação segura (**JWT**) e controle de acesso por função.  
-O **StaffSBOT** conta com **relatórios em PDF e CSV**, **notificações automáticas** e uma interface moderna e intuitiva,  
-totalmente adaptada à identidade visual da SBOT.
+O StaffSBOT reúne diversos módulos institucionais:
 
-💡 *O StaffSBOT é um exemplo real da aplicação prática do conhecimento adquirido no Bootcamp,  
-consolidando todas as competências em back-end, front-end, banco de dados, autenticação,  
-integração e cloud computing.*
+- **Motoboy** — solicitações de transporte, coletas, entregas, comprovantes e mensagens.  
+- **Aprovação de Pagamentos (AP)** — cadastro, anexos PDF, histórico completo, filtros e fluxo de pagamento.  
+- **Correspondências & Pacotes** — controle de entrada/saída, rastreamento interno e destinatários.  
+- **Contatos Internos** — cadastro atualizado de colaboradores, cargos, áreas e informações institucionais.  
+- **Diário de Atividades (Secretaria-Geral)** — demandas internas, anexos, filtros avançados e histórico administrativo.  
+- **Banco de Horas** — registro, justificativas, ajustes, resumo mensal e exportação.  
+- **Selos de Estacionamento** — controle mensal de selos, valores, uso, vencimentos e relatórios.  
+- **Notificações Push** — avisos contextuais conforme perfil do usuário.  
+- **Dashboard Institucional** — visão centralizada com acesso rápido aos módulos liberados por função (role).
+
+---
+
+## 🏗️ Arquitetura e Tecnologias
+
+O sistema foi desenvolvido com foco em **segurança, desempenho, responsividade e escalabilidade**, utilizando tecnologias modernas e alinhadas ao ambiente corporativo da SBOT:
+
+- **Back-end:** .NET 9 — Minimal API, Entity Framework Core, JWT, Repository Pattern  
+- **Front-end:** React + Vite — SPA totalmente responsiva  
+- **Banco de Dados:** MySQL 8 em container Docker  
+- **Infraestrutura:** Docker, Scripts de migração, Seed Data  
+- **Autenticação e Autorização:** JWT + Roles (AdminMaster, Financeiro, SG, Usuário)  
+- **Notificações:** Push Notification com VAPID  
+- **Relatórios:** PDF e CSV gerados automaticamente  
+- **Design:** layout institucional SBOT (verde #00694e · azul #007bff)
+
+---
+
+## 🔐 Segurança e Permissões
+
+O StaffSBOT implementa um sistema de permissões baseado em funções:
+
+- **AdminMaster:** acesso completo a todos os módulos  
+- **Financeiro:** gestão da AP e notificações  
+- **SecretariaGeral:** acesso ao Diário, Correspondências, AP, Selos  
+- **Usuário:** registro e acompanhamento das suas próprias solicitações  
+
+A autenticação é feita via **JWT**, garantindo controle seguro de rotas, ações e acessos.
+
+---
+
+## 🎨 Interface e Experiência do Usuário
+
+O front-end segue a identidade SBOT:
+
+- Header institucional fixo  
+- Tabelas padronizadas  
+- Cards com sombras leves  
+- Anexos e comprovantes organizados em listas  
+- Componentes visuais próprios (botões, modais, toasts SBOT)  
+- Layout moderno e responsivo com foco em produtividade  
+
+---
+
+## 🧠 Por que este projeto é especial?
+
+O **SistemasStaffSBOT** representa a união de todas as competências adquiridas durante a minha formação —  
+desde a arquitetura back-end até a construção de interfaces funcionais, autenticação segura,  
+integração com banco de dados, notificações push e ambiente em nuvem.
+
+É um sistema real, utilizado por uma instituição nacional, que demonstra:
+
+- domínio de **.NET 9 e APIs modernas**  
+- capacidade de estruturar **arquiteturas front/back completas**  
+- domínio de **Docker e MySQL**  
+- criação de interfaces **funcionais, úteis e escaláveis**  
+- aplicação real de **engenharia de software**, e não apenas estudos teóricos  
+
+---
+
+💡 *O StaffSBOT continua em evolução, recebendo novos módulos, melhorias constantes e refinamentos visuais —  
+sempre com foco em eficiência, usabilidade e identidade institucional.*
 
 ---
 
