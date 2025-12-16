@@ -25,8 +25,7 @@ O **SistemasStaffSBOT** é uma plataforma interna criada para a
 centralizar, modernizar e digitalizar todos os processos administrativos utilizados  
 diariamente pela instituição.
 
-Totalmente desenvolvido por mim — **do back-end ao front-end** — o sistema une em um  
-único ambiente módulos que antes eram manuais, dispersos e sem integração.
+O sistema une em um único ambiente módulos que antes eram manuais, dispersos e sem integração.
 
 ---
 
