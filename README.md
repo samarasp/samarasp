@@ -14,7 +14,7 @@
 - 🧠 **Lógica e Pensamento Computacional** — desafios práticos e raciocínio estruturado  
 - ⚙️ **ASP.NET Minimal APIs** — criação de APIs REST com Entity Framework  
 - 🐳 **Docker** — containers, imagens e integração com banco de dados  
-- ☁️ **Microsoft Azure** — máquinas virtuais, bancos de dados e serviços em nuvem  
+- ☁️ **Microsoft Azure** — Básico para máquinas virtuais, bancos de dados e serviços em nuvem  
 
 ---
 
@@ -40,7 +40,6 @@ O StaffSBOT reúne diversos módulos institucionais:
 - **Diário de Atividades (Secretaria-Geral)** — demandas internas, anexos, filtros avançados e histórico administrativo.  
 - **Banco de Horas** — registro, justificativas, ajustes, resumo mensal e exportação.  
 - **Selos de Estacionamento** — controle mensal de selos, valores, uso, vencimentos e relatórios.  
-- **Notificações Push** — avisos contextuais conforme perfil do usuário.  
 - **Dashboard Institucional** — visão centralizada com acesso rápido aos módulos liberados por função (role).
 
 ---
@@ -162,13 +161,6 @@ sempre com foco em eficiência, usabilidade e identidade institucional.*
 
 ---
 
-## 🎯 Próximo Desafio
-🏁 **Santander Bootcamp 2025 — Back-End com Python**  
-→ Aprimorando lógica, estrutura de dados e APIs com Flask e FastAPI  
-→ Explorando integração com bancos de dados e deploy em nuvem  
-
----
-
 ### 👥 More about Me
 
 <a href="https://www.linkedin.com/in/samara-silva-62a1057/" target="_blank">
@@ -177,4 +169,4 @@ sempre com foco em eficiência, usabilidade e identidade institucional.*
 
 ---
 
-✨ *“Aceitei um desafio... e descobri uma aptidão.”*  
+✨ *“Aceitei um desafio... e descobri uma paixão.”*  
