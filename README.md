@@ -3,7 +3,7 @@
 
 💻 Desenvolvedora em construção  
 🚀 Concluí o **Bootcamp GFT Start #7 (.NET)** e agora sigo para o **Santander 2025 – Back-End com Python**  
-✨ Apaixonada Apaixonada por transformar ideias em código e construir soluções reais  
+✨ Apaixonada por transformar ideias em código e construir soluções reais  
 
 ---
 
