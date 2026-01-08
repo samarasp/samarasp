@@ -1,172 +1,124 @@
-
 # 👋 Olá, eu sou a Samara!
 
-💻 Desenvolvedora em construção  
-🚀 Concluí o **Bootcamp GFT Start #7 (.NET)** e agora sigo para o **Santander 2025 – Back-End com Python**  
-✨ Apaixonada por transformar ideias em código e construir soluções reais  
+💻 Desenvolvedora em constante evolução  
+🚀 Concluí o **Bootcamp GFT Start #7 (.NET)** e o **Santander 2025 – Back-End com Python**  
+✨ Gosto de transformar ideias em código e construir soluções que façam sentido no mundo real  
 
 ---
 
-## 🚀 Habilidades adquiridas
-- 💻 **C# e .NET** — sintaxe, POO, coleções, exceções e boas práticas  
-- 🐍 **Python** — fundamentos e primeiros passos no desenvolvimento back-end  
-- 🔧 **Git & GitHub** — versionamento de código e colaboração em projetos open source  
-- 🧠 **Lógica e Pensamento Computacional** — desafios práticos e raciocínio estruturado  
-- ⚙️ **ASP.NET Minimal APIs** — criação de APIs REST com Entity Framework  
-- 🐳 **Docker** — containers, imagens e integração com banco de dados  
-- ☁️ **Microsoft Azure** — Básico para máquinas virtuais, bancos de dados e serviços em nuvem  
+## 🚀 Habilidades e Experiência
+
+- 💻 **C# e .NET** — POO, APIs, Entity Framework, autenticação e regras de negócio  
+- 🐍 **Python** — FastAPI, testes automatizados e TDD  
+- 🧪 **Testes** — pytest, pytest-asyncio, TDD (RED → GREEN)  
+- 🔧 **Git & GitHub** — versionamento, branches, commits e PRs  
+- ⚙️ **APIs REST** — estruturação de back-end e integração front/back  
+- 🐳 **Docker** — containers e bancos de dados  
+- ☁️ **Cloud & Deploy** — experiência prática com Render  
+- 🎨 **Front-end (na prática)** — React + Vite para integração com APIs  
 
 ---
 
-## 💼 Projeto em Destaque — *SistemasStaffSBOT* (em desenvolvimento)
+## 💼 Projeto em Destaque — SistemasStaffSBOT (em desenvolvimento contínuo)
 
-O **SistemasStaffSBOT** é uma plataforma interna criada para a  
-**Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)** com o objetivo de  
-centralizar, modernizar e digitalizar todos os processos administrativos utilizados  
-diariamente pela instituição.
+O **SistemasStaffSBOT** é uma plataforma interna desenvolvida para a  
+**Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)**.
 
-O sistema une em um único ambiente módulos que antes eram manuais, dispersos e sem integração.
+Ele nasceu da necessidade real de **organizar, centralizar e digitalizar** processos administrativos que antes eram manuais, descentralizados e pouco integrados.
 
----
-
-## 🧩 Módulos Ativos
-
-O StaffSBOT reúne diversos módulos institucionais:
-
-- **Motoboy** — solicitações de transporte, coletas, entregas, comprovantes e mensagens.  
-- **Aprovação de Pagamentos (AP)** — cadastro, anexos PDF, histórico completo, filtros e fluxo de pagamento.  
-- **Correspondências & Pacotes** — controle de entrada/saída, rastreamento interno e destinatários.  
-- **Contatos Internos** — cadastro atualizado de colaboradores, cargos, áreas e informações institucionais.  
-- **Diário de Atividades (Secretaria-Geral)** — demandas internas, anexos, filtros avançados e histórico administrativo.  
-- **Banco de Horas** — registro, justificativas, ajustes, resumo mensal e exportação.  
-- **Selos de Estacionamento** — controle mensal de selos, valores, uso, vencimentos e relatórios.  
-- **Dashboard Institucional** — visão centralizada com acesso rápido aos módulos liberados por função (role).
+Mais do que um projeto técnico, é um sistema **vivo**, utilizado por pessoas reais e que evolui conforme as necessidades da instituição.
 
 ---
 
-## 🏗️ Arquitetura e Tecnologias
+## 🧩 Módulos Desenvolvidos
 
-O sistema foi desenvolvido com foco em **segurança, desempenho, responsividade e escalabilidade**, utilizando tecnologias modernas e alinhadas ao ambiente corporativo da SBOT:
+O StaffSBOT reúne módulos institucionais que conversam entre si:
 
-- **Back-end:** .NET 9 — Minimal API, Entity Framework Core, JWT, Repository Pattern  
-- **Front-end:** React + Vite — SPA totalmente responsiva  
-- **Banco de Dados:** MySQL 8 em container Docker  
-- **Infraestrutura:** Docker, Scripts de migração, Seed Data  
-- **Autenticação e Autorização:** JWT + Roles (AdminMaster, Financeiro, SG, Usuário)  
-- **Notificações:** Push Notification com VAPID  
-- **Relatórios:** PDF e CSV gerados automaticamente  
-- **Design:** layout institucional SBOT (verde #00694e · azul #007bff)
-
----
-
-## 🔐 Segurança e Permissões
-
-O StaffSBOT implementa um sistema de permissões baseado em funções:
-
-- **AdminMaster:** acesso completo a todos os módulos  
-- **Financeiro:** gestão da AP e notificações  
-- **SecretariaGeral:** acesso ao Diário, Correspondências, AP, Selos  
-- **Usuário:** registro e acompanhamento das suas próprias solicitações  
-
-A autenticação é feita via **JWT**, garantindo controle seguro de rotas, ações e acessos.
+- **Motoboy** — solicitações de transporte, coletas, entregas e comprovantes  
+- **Aprovação de Pagamentos (AP)** — fluxo financeiro, anexos PDF, histórico e filtros  
+- **Correspondências & Pacotes** — controle de entrada/saída e rastreamento interno  
+- **Contatos Internos** — cadastro institucional centralizado  
+- **Diário de Atividades (Secretaria-Geral)** — demandas, anexos e histórico  
+- **Banco de Horas** — registros, justificativas, ajustes e relatórios  
+- **Selos de Estacionamento** — controle mensal de selos e vencimentos  
+- **Dashboard Institucional** — acesso aos módulos conforme perfil do usuário  
 
 ---
 
-## 🎨 Interface e Experiência do Usuário
+## 🏗️ Arquitetura e Tecnologias Utilizadas
 
-O front-end segue a identidade SBOT:
+O sistema foi pensado para ser **seguro, organizado e escalável**, utilizando:
 
-- Header institucional fixo  
-- Tabelas padronizadas  
-- Cards com sombras leves  
-- Anexos e comprovantes organizados em listas  
-- Componentes visuais próprios (botões, modais, toasts SBOT)  
-- Layout moderno e responsivo com foco em produtividade  
-
----
-
-## 🧠 Por que este projeto é especial?
-
-O **SistemasStaffSBOT** representa a união de todas as competências adquiridas durante a minha formação —  
-desde a arquitetura back-end até a construção de interfaces funcionais, autenticação segura,  
-integração com banco de dados, notificações push e ambiente em nuvem.
-
-É um sistema real, utilizado por uma instituição nacional, que demonstra:
-
-- domínio de **.NET 9 e APIs modernas**  
-- capacidade de estruturar **arquiteturas front/back completas**  
-- domínio de **Docker e MySQL**  
-- criação de interfaces **funcionais, úteis e escaláveis**  
-- aplicação real de **engenharia de software**, e não apenas estudos teóricos  
+- **Back-end:** .NET 9 — Minimal APIs, Entity Framework Core  
+- **Front-end:** React + Vite (SPA responsiva)  
+- **Banco de Dados:** PostgreSQL (migração a partir de MySQL)  
+- **Infraestrutura:** Docker e deploy em Render  
+- **Autenticação:** JWT com controle de roles  
+- **Notificações:** Push Notifications (VAPID)  
+- **Relatórios:** geração de PDF e CSV  
+- **Design:** identidade visual institucional da SBOT  
 
 ---
 
-💡 *O StaffSBOT continua em evolução, recebendo novos módulos, melhorias constantes e refinamentos visuais —  
-sempre com foco em eficiência, usabilidade e identidade institucional.*
+## 🧠 Por que o StaffSBOT é especial?
+
+Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
+
+- construção de **APIs reais**  
+- definição de **regras de negócio**  
+- controle de **permissões e segurança**  
+- integração entre **front-end e back-end**  
+- experiência real com **deploy e infraestrutura**  
+- preocupação com **usabilidade e organização**  
+- evolução contínua baseada em uso real  
+
+Não é um projeto estático — ele cresce junto com a instituição.
 
 ---
 
-## 🎓 Bootcamp GFT Start #7 (DIO) — ✅ Concluído  
+## 🧪 Projeto em Python — FastAPI + TDD
 
-### 🔹 Fundamentos de Programação e Ambiente
-- Introdução ao .NET e configuração de ambiente de desenvolvimento  
-- Sintaxe básica e tipos de dados em C#  
-- Versionamento de código com Git e GitHub  
-- Contribuição em projetos open source  
-- Organização de portfólio de projetos  
+Durante o **Santander 2025 – Back-End com Python**, desenvolvi uma API utilizando **FastAPI**, com foco em **qualidade e testes automatizados**.
 
-### 🔹 Lógica de Programação e Pensamento Computacional
-- Operadores aritméticos, relacionais e lógicos  
-- Estruturas de repetição e controle de fluxo  
-- Arrays, listas e manipulação de coleções  
-- Desafios de lógica e algoritmos  
+Principais aprendizados aplicados:
 
-### 🔹 Programação Orientada a Objetos (POO)
-- Classes, métodos, propriedades e construtores  
-- Encapsulamento e manipulação de valores  
-- Exceções, coleções e serialização  
-- Tuplas, operador ternário e desconstrução  
-- Abstração, herança, polimorfismo, classes abstratas e interfaces  
+- TDD (RED → GREEN)  
+- testes assíncronos com pytest  
+- mock de dependências externas  
+- tratamento de exceções  
+- filtros e regras de negócio  
 
-### 🔹 Desenvolvimento de APIs e Integração
-- Introdução às APIs com C#  
-- Criação de **Minimal APIs** com ASP.NET  
-- Integração com **Entity Framework e MySQL**  
-- Documentação com **Swagger e Scalar**  
-- Uso de **Docker** para rodar APIs e bancos de dados  
-
-### 🔹 Banco de Dados e Cloud Computing
-- Conceitos de **SQL e NoSQL (MongoDB)**  
-- Criação e integração de **banco de dados relacionais**  
-- Instâncias de banco e **máquinas virtuais no Azure**  
-- Tipos de serviço em nuvem (IaaS, PaaS, SaaS)  
-- Localização e gerenciamento de recursos no **Microsoft Azure**  
+Esse projeto consolidou minha confiança no ecossistema Python para back-end.
 
 ---
 
-## 🛠️ Desafios e Projetos Práticos
-- 🚗 [Sistema para Estacionamento em C#](https://github.com/samarasp/trilha-net-fundamentos-desafio)  
-- 🏨 [Sistema de Hospedagem de Hotel em C#](https://github.com/digitalinnovationone/trilha-net-explorando-desafio)  
-- 📱 [Abstraindo um Celular com POO em C#](https://github.com/samarasp/trilha-net-poo-desafio)  
-- 📅 [Sistema de Agendamento de Tarefas com Entity Framework](https://github.com/samarasp/trilha-net-api-desafio)  
-- 🧩 [Contribuindo em Projeto Open Source no GitHub](https://github.com/samarasp/dio-lab-open-source)  
+## 🚧 Próximo Projeto — Sistema de Votação Prêmio Nicolas Andry (SBOT)
+
+Projeto em fase de planejamento técnico.
+
+**Objetivo:** desenvolver um **sistema seguro de votação online** para o  
+**Prêmio Nicolas Andry da SBOT**, com foco em:
+
+- controle de acesso  
+- regras claras de elegibilidade  
+- auditoria e rastreabilidade  
+- integridade dos votos  
+- backend robusto em Python  
 
 ---
 
-## ☁️ Azure & Cloud Computing
-- Introdução à computação em nuvem  
-- Benefícios e tipos de serviços (IaaS, PaaS, SaaS)  
-- Criação de **máquinas virtuais** e **bancos de dados** no Azure  
-- Gerenciamento de recursos e otimização de custos  
+## 🎓 Formação
+
+- **GFT Start #7 (.NET)** — concluído  
+- **Santander 2025 – Back-End com Python** — concluído  
+- **Próximo:** Santander 2025 – Ciência de Dados com Python  
 
 ---
 
-### 👥 More about Me
+## 👥 Contato
 
-<a href="https://www.linkedin.com/in/samara-silva-62a1057/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samara-silva-62a1057/)
 
 ---
 
-✨ *“Aceitei um desafio... e descobri uma paixão.”*  
+✨ *“Aprender código é importante. Construir sistemas reais faz a diferença.”*
