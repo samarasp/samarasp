@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou a Samara!
+# Samara Silva 
 
-💻 Desenvolvedora em constante evolução  
+💻 Future Dev, em evolução  
 🚀 Concluí o **Bootcamp GFT Start #7 (.NET)** e o **Santander 2025 – Back-End com Python**  
 ✨ Gosto de transformar ideias em código e construir soluções que façam sentido no mundo real  
 
@@ -24,9 +24,9 @@
 O **SistemasStaffSBOT** é uma plataforma interna desenvolvida para a  
 **Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)**.
 
-Ele nasceu da necessidade real de **organizar, centralizar e digitalizar** processos administrativos que antes eram manuais, descentralizados e pouco integrados.
+Ele nasceu da necessidade real de **organizar, centralizar e digitalizar** processos administrativos manuais, descentralizados e pouco integrados.
 
-Mais do que um projeto técnico, é um sistema **vivo**, utilizado por pessoas reais e que evolui conforme as necessidades da instituição.
+Mais do que um projeto técnico, é um sistema **vivo**, que evolui conforme as necessidades da instituição.
 
 ---
 
@@ -34,7 +34,7 @@ Mais do que um projeto técnico, é um sistema **vivo**, utilizado por pessoas r
 
 O StaffSBOT reúne módulos institucionais que conversam entre si:
 
-- **Motoboy** — solicitações de transporte, coletas, entregas e comprovantes  
+- **Motoboy** — solicitações de coletas e entregas.
 - **Aprovação de Pagamentos (AP)** — fluxo financeiro, anexos PDF, histórico e filtros  
 - **Correspondências & Pacotes** — controle de entrada/saída e rastreamento interno  
 - **Contatos Internos** — cadastro institucional centralizado  
@@ -71,8 +71,6 @@ Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
 - experiência real com **deploy e infraestrutura**  
 - preocupação com **usabilidade e organização**  
 - evolução contínua baseada em uso real  
-
-Não é um projeto estático — ele cresce junto com a instituição.
 
 ---
 
