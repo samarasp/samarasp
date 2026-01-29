@@ -90,26 +90,12 @@ Esse projeto consolidou minha confiança no ecossistema Python para back-end.
 
 ---
 
-## 🚧 Próximo Projeto — Sistema de Votação Prêmio Nicolas Andry (SBOT)
-
-Projeto em fase de planejamento técnico.
-
-**Objetivo:** desenvolver um **sistema seguro de votação online** para o  
-**Prêmio Nicolas Andry da SBOT**, com foco em:
-
-- controle de acesso  
-- regras claras de elegibilidade  
-- auditoria e rastreabilidade  
-- integridade dos votos  
-- backend robusto em Python  
-
----
-
 ## 🎓 Formação
 
+- **Análise e Desenvolvimento de Sistemas** — Universidade Anhembi Morumbi Conclusão prevista: 2026
 - **GFT Start #7 (.NET)** — concluído  
 - **Santander 2025 – Back-End com Python** — concluído  
-- **Próximo:** Santander 2025 – Ciência de Dados com Python  
+- **Santander 2026 – Ciência de Dados com Python** - cursando  
 
 ---
 
