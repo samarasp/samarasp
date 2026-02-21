@@ -1,53 +1,31 @@
-# Samara Silva 
+# Samara Silva  
 
-💻 Future Dev, em evolução  
-🚀 Concluí o **Bootcamp GFT Start #7 (.NET)** e o **Santander 2025 – Back-End com Python**  
-✨ Gosto de transformar ideias em código e construir soluções que façam sentido no mundo real  
-
----
-
-## 🚀 Habilidades e Experiência
-
-- 💻 **C# e .NET** — POO, APIs, Entity Framework, autenticação e regras de negócio  
-- 🐍 **Python** — FastAPI, testes automatizados e TDD  
-- 🧪 **Testes** — pytest, pytest-asyncio, TDD (RED → GREEN)  
-- 🔧 **Git & GitHub** — versionamento, branches, commits e PRs  
-- ⚙️ **APIs REST** — estruturação de back-end e integração front/back  
-- 🐳 **Docker** — containers e bancos de dados  
-- ☁️ **Cloud & Deploy** — experiência prática com Render  
-- 🎨 **Front-end (na prática)** — React + Vite para integração com APIs  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+💻 Desenvolvendo sistemas reais enquanto aprendo  
+🚀 **.NET | Python | Java | React | APIs REST | Banco de Dados**
 
 ---
 
-## 💼 Projeto em Destaque — SistemasStaffSBOT (em desenvolvimento contínuo)
+## 🚀 Sobre Mim
 
-O **SistemasStaffSBOT** é uma plataforma interna desenvolvida para a  
-**Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)**.
+Sou estudante de ADS com foco em desenvolvimento, aplicando na prática o que venho aprendendo.
 
-Ele nasceu da necessidade real de **organizar, centralizar e digitalizar** processos administrativos manuais, descentralizados e pouco integrados.
+Atualmente desenvolvo o **SistemasStaffSBOT**, plataforma interna da  
+**Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)**, onde aplico conceitos de:
 
-Mais do que um projeto técnico, é um sistema **vivo**, que evolui conforme as necessidades da instituição.
+- Orientação a Objetos  
+- Construção de APIs  
+- Integração front-end e back-end  
+- Controle de permissões  
+- Banco de dados relacional  
 
----
-
-## 🧩 Módulos Desenvolvidos
-
-O StaffSBOT reúne módulos institucionais que conversam entre si:
-
-- **Motoboy** — solicitações de coletas e entregas.
-- **Aprovação de Pagamentos (AP)** — fluxo financeiro, anexos PDF, histórico e filtros  
-- **Correspondências & Pacotes** — controle de entrada/saída e rastreamento interno  
-- **Contatos Internos** — cadastro institucional centralizado  
-- **Diário de Atividades (Secretaria-Geral)** — demandas, anexos e histórico  
-- **Banco de Horas** — registros, justificativas, ajustes e relatórios  
-- **Selos de Estacionamento** — controle mensal de selos e vencimentos  
-- **Dashboard Institucional** — acesso aos módulos conforme perfil do usuário  
+Meu objetivo é evoluir de forma sólida, aprofundando meu entendimento em arquitetura e boas práticas de desenvolvimento.
 
 ---
 
-## 🏗️ Arquitetura e Tecnologias Utilizadas
+## 🏗️ Projeto Principal — SistemasStaffSBOT
 
-O sistema foi pensado para ser **seguro, organizado e escalável**, utilizando:
+Sistema institucional desenvolvido para ser **seguro, organizado e escalável**, utilizando:
 
 - **Back-end:** .NET 9 — Minimal APIs, Entity Framework Core  
 - **Front-end:** React + Vite (SPA responsiva)  
@@ -55,8 +33,8 @@ O sistema foi pensado para ser **seguro, organizado e escalável**, utilizando:
 - **Infraestrutura:** Docker e deploy em Render  
 - **Autenticação:** JWT com controle de roles  
 - **Notificações:** Push Notifications (VAPID)  
-- **Relatórios:** geração de PDF e CSV  
-- **Design:** identidade visual institucional da SBOT  
+- **Relatórios:** Geração de PDF e CSV  
+- **Design:** Identidade visual institucional da SBOT  
 
 ---
 
@@ -64,45 +42,42 @@ O sistema foi pensado para ser **seguro, organizado e escalável**, utilizando:
 
 Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
 
-- construção de **APIs reais**  
-- definição de **regras de negócio**  
-- controle de **permissões e segurança**  
-- integração entre **front-end e back-end**  
-- experiência real com **deploy e infraestrutura**  
-- preocupação com **usabilidade e organização**  
-- evolução contínua baseada em uso real  
+- Construção de **APIs reais**  
+- Definição de **regras de negócio**  
+- Controle de **permissões e segurança**  
+- Integração entre **front-end e back-end**  
+- Experiência real com **deploy e infraestrutura**  
+- Estruturação de APIs REST  
+- Separação de responsabilidades  
+- Versionamento com Git  
+- Evolução contínua baseada em uso real  
 
 ---
 
-## 🧪 Projeto em Python — FastAPI + TDD
+## 🛠️ Tecnologias de Estudo
 
-Durante o **Santander 2025 – Back-End com Python**, desenvolvi uma API utilizando **FastAPI**, com foco em **qualidade e testes automatizados**.
-
-Principais aprendizados aplicados:
-
-- TDD (RED → GREEN)  
-- testes assíncronos com pytest  
-- mock de dependências externas  
-- tratamento de exceções  
-- filtros e regras de negócio  
-
-Esse projeto consolidou minha confiança no ecossistema Python para back-end.
+- C#  
+- .NET  
+- Python  
+- Java (fundamentos e POO)  
+- React  
+- PostgreSQL  
+- Git & GitHub  
+- Docker  
 
 ---
 
 ## 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Universidade Anhembi Morumbi Conclusão prevista: 2026
-- **GFT Start #7 (.NET)** — concluído  
+**Análise e Desenvolvimento de Sistemas**  
+Universidade Anhembi Morumbi — conclusão prevista 2026  
+
+- Bootcamp **GFT Start #7 (.NET)** — concluído  
 - **Santander 2025 – Back-End com Python** — concluído  
-- **Santander 2026 – Ciência de Dados com Python** - cursando  
+- **Santander 2026 – Ciência de Dados com Python** — em andamento  
 
 ---
 
-## 👥 Contato
+## 🔗 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samara-silva-62a1057/)
-
----
-
-✨ *“Aprender código é importante. Construir sistemas reais faz a diferença.”*
+[LinkedIn](https://www.linkedin.com/in/samara-silva-62a1057/)
