@@ -59,7 +59,7 @@ Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
 - C#  
 - .NET  
 - Python  
-- Java (fundamentos e POO)  
+- Java   
 - React  
 - PostgreSQL  
 - Git & GitHub  
@@ -70,11 +70,12 @@ Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
 ## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas**  
-Universidade Anhembi Morumbi — conclusão prevista 2026  
+Universidade Anhembi Morumbi — conclusão prevista 2028  
 
-- Bootcamp **GFT Start #7 (.NET)** — concluído  
-- **Santander 2025 – Back-End com Python** — concluído  
-- **Santander 2026 – Ciência de Dados com Python** — em andamento  
+- Bootcamp **GFT Start #7 (.NET)**   
+- **Santander 2025 – Back-End com Python**   
+- **Santander 2026 – Ciência de Dados com Python**
+- **Almaviva - Java & QA** — em andamento
 
 ---
 
