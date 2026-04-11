@@ -73,9 +73,10 @@ Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
 Universidade Anhembi Morumbi — conclusão prevista 2028  
 
 - Bootcamp **GFT Start #7 (.NET)**   
-- **Santander 2025 – Back-End com Python**   
-- **Santander 2026 – Ciência de Dados com Python**
-- **Almaviva - Java & QA** — em andamento
+- Bootcamp **Santander 2025 – Back-End com Python**   
+- Bootcamp **Santander 2026 – Ciência de Dados com Python**
+- Bootcamp **Almaviva - Java & QA** — em andamento
+- Bootcamp **Globant - Java & Spring Boot AI Developer** — em andamento
 
 ---
 
