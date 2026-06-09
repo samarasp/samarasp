@@ -81,7 +81,7 @@ Universidade Anhembi Morumbi — conclusão prevista 2028
 - Bootcamp **Santander 2025 – Back-End com Python**   
 - Bootcamp **Santander 2026 – Ciência de Dados com Python**
 - Bootcamp **Almaviva - Java & QA**
-- Bootcamp **Globant - Java & Spring Boot AI Developer** – em andamento
+- Bootcamp **Globant - Java & Spring Boot AI Developer**
 - Bootcamp **Santander 2026 - AI Java Back-end** – em andamento
 
 ---
