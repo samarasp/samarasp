@@ -83,6 +83,13 @@ Universidade Anhembi Morumbi — conclusão prevista 2028
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarasp&show_icons=true&theme=default&hide_border=true&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarasp&layout=compact&theme=default&hide_border=true&locale=pt-br)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samarasp&locale=pt_BR&hide_border=true)
+
+
 ## 🔗 Contato
 
 [LinkedIn](https://www.linkedin.com/in/samara-silva-62a1057/)
