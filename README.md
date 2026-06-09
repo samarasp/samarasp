@@ -69,6 +69,7 @@ Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
 <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge" title="IA"/>
 <img src="https://img.shields.io/badge/QA-000000?style=for-the-badge" title="QA"/>
 </p>
+
 ---
 
 ## 🎓 Formação
