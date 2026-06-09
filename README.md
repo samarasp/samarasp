@@ -56,6 +56,7 @@ Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
 
 ## 🛠️ Tecnologias de Estudo
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -65,18 +66,9 @@ Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-
-- C#  
-- .NET  
-- Python  
-- Java   
-- React  
-- PostgreSQL  
-- Git & GitHub  
-- Docker
-- IA
-- QA
-
+![AI](https://img.shields.io/badge/IA-000000?style=for-the-badge&logoColor=white)
+![QA](https://img.shields.io/badge/QA-000000?style=for-the-badge&logoColor=white)
+</p>
 ---
 
 ## 🎓 Formação
