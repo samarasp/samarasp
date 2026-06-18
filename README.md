@@ -2,55 +2,90 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 Desenvolvendo sistemas reais enquanto aprendo  
-🚀 **.NET | Python | Java | React | APIs REST | Banco de Dados**
+🚀 **Java | Spring Boot | .NET | Python | | React | APIs REST | Banco de Dados**
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou estudante de ADS com foco em desenvolvimento, aplicando na prática o que venho aprendendo.
+Sou estudante de Análise e Desenvolvimento de Sistemas e acredito que a melhor forma de aprender é construindo projetos reais.
 
-Atualmente desenvolvo o **SistemasStaffSBOT**, plataforma interna da  
-**Sociedade Brasileira de Ortopedia e Traumatologia (SBOT)**, onde aplico conceitos de:
+Meu foco é desenvolvimento Back-end, arquitetura de software, integração com APIs, bancos de dados e boas práticas de desenvolvimento. Sempre procuro entender o funcionamento das tecnologias que utilizo, priorizando código organizado, seguro e de fácil manutenção.
 
-- Orientação a Objetos  
-- Construção de APIs  
-- Integração front-end e back-end  
-- Controle de permissões  
-- Banco de dados relacional  
+Atualmente estudo principalmente:
 
-Meu objetivo é evoluir de forma sólida, aprofundando meu entendimento em arquitetura e boas práticas de desenvolvimento.
-
----
-
-## 🏗️ Projeto Principal — SistemasStaffSBOT
-
-Sistema institucional desenvolvido para ser **seguro, organizado e escalável**, utilizando:
-
-- **Back-end:** .NET 9 — Minimal APIs, Entity Framework Core  
-- **Front-end:** React + Vite (SPA responsiva)  
-- **Banco de Dados:** PostgreSQL (migração a partir de MySQL)  
-- **Infraestrutura:** Docker e deploy em Render  
-- **Autenticação:** JWT com controle de roles  
-- **Notificações:** Push Notifications (VAPID)  
-- **Relatórios:** Geração de PDF e CSV  
-- **Design:** Identidade visual institucional da SBOT  
+Java + Spring Boot
+C# + .NET
+Python
+APIs REST
+PostgreSQL
+Git e GitHub
+Docker
+Inteligência Artificial aplicada ao desenvolvimento
 
 ---
 
-## 🧠 Por que o StaffSBOT é especial?
+# 🚀 Projetos em destaque
 
-Porque ele reúne tudo o que venho aprendendo e aplicando na prática:
+## 📧 Email Summary *(Público)*
 
-- Construção de **APIs reais**  
-- Definição de **regras de negócio**  
-- Controle de **permissões e segurança**  
-- Integração entre **front-end e back-end**  
-- Experiência real com **deploy e infraestrutura**  
-- Estruturação de APIs REST  
-- Separação de responsabilidades  
-- Versionamento com Git  
-- Evolução contínua baseada em uso real  
+Aplicação desenvolvida em **Java + Spring Boot** para leitura, processamento e preparação de e-mails para Inteligência Artificial, utilizando integração segura com a Gmail API.
+
+### Principais recursos
+
+* OAuth 2.0
+* Gmail API
+* Arquitetura em camadas
+* APIs REST
+* DTOs para listagem e detalhes
+* Injeção de dependência
+* Interface para múltiplos provedores de e-mail (`EmailProvider`)
+* Limpeza inteligente do corpo dos e-mails para processamento por IA
+* Arquitetura preparada para integração com Google Gemini
+* Foco em segurança utilizando o princípio do menor privilégio (Least Privilege)
+
+**Tecnologias**
+
+`Java` `Spring Boot` `OAuth 2.0` `Gmail API` `Maven` `Git`
+
+---
+
+## 💰 CoupleFINEance *(Público)*
+
+API desenvolvida em Java para gerenciamento financeiro de casais.
+
+### Principais recursos
+
+* APIs REST
+* Persistência de dados
+* Arquitetura em camadas
+* PostgreSQL
+* Organização do domínio
+* Boas práticas de desenvolvimento
+
+**Tecnologias**
+
+`Java` `Spring Boot` `PostgreSQL`
+
+---
+
+## 🏥 StaffSBOT *(Projeto institucional privado)*
+
+Participo do desenvolvimento de uma plataforma institucional utilizada internamente pela Sociedade Brasileira de Ortopedia e Traumatologia (SBOT).
+
+Nesse projeto aplico conceitos como:
+
+* Arquitetura de software
+* APIs REST
+* Autenticação e autorização
+* Banco de dados
+* Integração entre Front-end e Back-end
+* Segurança
+* Controle de permissões
+* Docker
+* Deploy
+
+Por se tratar de um projeto institucional, seu código não é público.
 
 ---
 
@@ -97,4 +132,4 @@ Universidade Anhembi Morumbi — conclusão prevista 2028
 
 ## 🔗 Contato
 
-[LinkedIn](https://www.linkedin.com/in/samara-silva-62a1057/)
+[LinkedIn](https://www.linkedin.com/in/samara-nsilva/)
