@@ -25,28 +25,36 @@ Inteligência Artificial aplicada ao desenvolvimento
 
 ---
 
-# 🚀 Projetos em destaque
+🚀 **Projetos em destaque**
 
-## 📧 Email Summary *(Público)*
+### 📧 Email Summary *(Público)*
 
-Aplicação desenvolvida em **Java + Spring Boot** para leitura, processamento e preparação de e-mails para Inteligência Artificial, utilizando integração segura com a Gmail API.
+Aplicação backend desenvolvida em **Java 21** e **Spring Boot** para automatizar a leitura, análise e organização de e-mails corporativos utilizando Inteligência Artificial.
 
-### Principais recursos
+A solução integra-se à **Gmail API** por meio de **OAuth 2.0**, processa o conteúdo das mensagens e anexos e utiliza o **Google Gemini** para gerar resumos executivos estruturados, sugestões de ações, identificação de pendências e um **Daily Briefing** com as principais demandas do dia.
 
-* OAuth 2.0
-* Gmail API
+**Principais recursos**
+
+* OAuth 2.0 (Google)
+* Integração com Gmail API (leitura e envio de e-mails)
+* Google Gemini
 * Arquitetura em camadas
+* Princípios SOLID e SRP
 * APIs REST
-* DTOs para listagem e detalhes
-* Injeção de dependência
-* Interface para múltiplos provedores de e-mail (`EmailProvider`)
-* Limpeza inteligente do corpo dos e-mails para processamento por IA
-* Arquitetura preparada para integração com Google Gemini
-* Foco em segurança utilizando o princípio do menor privilégio (Least Privilege)
+* Processamento de anexos (PDF, DOCX e TXT)
+* Pré-processamento inteligente do conteúdo dos e-mails
+* Geração de resumos executivos com IA
+* Classificação de prioridade
+* Identificação de pendências, prazos e pessoas citadas
+* Sugestão automática de respostas
+* Envio automático de resumos por e-mail
+* Daily Briefing consolidado
+* Testes unitários com JUnit 5 e Mockito
+* Segurança baseada no princípio do menor privilégio (*Least Privilege*)
 
 **Tecnologias**
 
-`Java` `Spring Boot` `OAuth 2.0` `Gmail API` `Maven` `Git`
+Java • Spring Boot • Gmail API • Google Gemini • OAuth 2.0 • Maven • JUnit 5 • Mockito • Jackson • Apache PDFBox • Apache POI • Git
 
 ---
 
