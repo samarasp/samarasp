@@ -37,6 +37,7 @@ A solução integra-se à **Gmail API** por meio de **OAuth 2.0**, processa o co
 
 * OAuth 2.0 (Google)
 * Integração com Gmail API (leitura e envio de e-mails)
+* incluindo histórico de threads do Gmail
 * Google Gemini
 * Arquitetura em camadas
 * Princípios SOLID e SRP
@@ -44,7 +45,6 @@ A solução integra-se à **Gmail API** por meio de **OAuth 2.0**, processa o co
 * Processamento de anexos (PDF, DOCX e TXT)
 * Pré-processamento inteligente do conteúdo dos e-mails
 * Construção automática de contexto para análise da IA
-* Classificação e priorização local dos e-mails
 * Geração de prompts especializados por tipo de análise
 * Geração de resumos executivos com IA
 * Daily Briefing Inteligente consolidado
