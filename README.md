@@ -31,7 +31,7 @@ Inteligência Artificial aplicada ao desenvolvimento
 
 Aplicação backend desenvolvida em **Java 21** e **Spring Boot** para automatizar a leitura, análise e organização de e-mails corporativos utilizando Inteligência Artificial.
 
-A solução integra-se à **Gmail API** por meio de **OAuth 2.0**, processa o conteúdo das mensagens e anexos, classifica e prioriza os e-mails localmente e utiliza o **Google Gemini** para gerar resumos executivos estruturados e um **Daily Briefing Inteligente**, consolidando diversas mensagens em uma única análise.
+A solução integra-se à **Gmail API** por meio de **OAuth 2.0**, processa o conteúdo das mensagens e anexos, classifica e prioriza os e-mails localmente e utiliza o **Google Gemini** para gerar resumos executivos estruturados, contextualizados pelo histórico de conversas (threads do Gmail), além de um **Daily Briefing Inteligente** que consolida diversas mensagens em uma única análise.
 
 ### Principais recursos
 
