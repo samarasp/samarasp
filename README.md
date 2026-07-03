@@ -29,33 +29,23 @@ Inteligência Artificial aplicada ao desenvolvimento
 
 ## 📧 Email Summary (Público)
 
-Aplicação backend desenvolvida em **Java 21** e **Spring Boot** para automatizar a leitura, análise e organização de e-mails corporativos utilizando Inteligência Artificial.
+Aplicação Desktop desenvolvida em Java 21 e Spring Boot para automatizar a leitura e análise de caixas de e-mail utilizando Inteligência Artificial.
 
-A solução integra-se à **Gmail API** por meio de **OAuth 2.0**, processa o conteúdo das mensagens e anexos, classifica e prioriza os e-mails localmente e utiliza o **Google Gemini** para gerar resumos executivos estruturados, contextualizados pelo histórico de conversas (threads do Gmail), além de um **Daily Briefing Inteligente** que consolida diversas mensagens em uma única análise.
+Integra-se à Gmail API por meio de OAuth 2.0, processa mensagens e anexos, utiliza o Google Gemini para compreender o contexto das conversas e gerar um Daily Briefing Executivo consolidado. A arquitetura V3 suporta múltiplas mailboxes independentes, realizando uma única análise por mailbox para produzir briefings mais objetivos e reduzir chamadas à IA.
 
-### Principais recursos
-
-* OAuth 2.0 (Google)
-* Integração com Gmail API (leitura e envio de e-mails)
-* incluindo histórico de threads do Gmail
-* Google Gemini
-* Arquitetura em camadas
-* Princípios SOLID e SRP
-* APIs REST
-* Processamento de anexos (PDF, DOCX e TXT)
-* Pré-processamento inteligente do conteúdo dos e-mails
-* Construção automática de contexto para análise da IA
-* Geração de prompts especializados por tipo de análise
-* Geração de resumos executivos com IA
-* Daily Briefing Inteligente consolidado
-* Classificação de prioridade
-* Identificação de pendências, prazos e pessoas citadas
-* Sugestão automática de respostas
-* Envio automático de resumos por e-mail
-* Testes unitários com JUnit 5 e Mockito
-* Segurança baseada no princípio do menor privilégio (Least Privilege)
-
-### Tecnologias
+Principais recursos
+OAuth 2.0 (Google)
+Gmail API (leitura e envio de e-mails)
+Google Gemini
+Daily Briefing Executivo
+Contexto por Threads do Gmail
+Suporte a múltiplas mailboxes
+Processamento de anexos (PDF, DOCX e TXT)
+Classificação de prioridade e identificação de ações
+Arquitetura em camadas (SOLID e SRP)
+Desktop portátil
+Testes unitários (JUnit 5 e Mockito)
+Tecnologias
 
 Java • Spring Boot • Gmail API • Google Gemini • OAuth 2.0 • Maven • JUnit 5 • Mockito • Jackson • Apache PDFBox • Apache POI • Git
 
