@@ -118,7 +118,7 @@ Universidade Anhembi Morumbi — conclusão prevista 2028
 - Avanade **Back-end com .NET e IA**   
 - Bootcamp **Almaviva - Java & QA**
 - Bootcamp **Globant - Java & Spring Boot AI Developer**
-- Bootcamp **Santander 2026 - AI Java Back-end** – em andamento
+- Bootcamp **Santander 2026 - AI Java Back-end**
 
 ---
 ## 📊 GitHub Stats
